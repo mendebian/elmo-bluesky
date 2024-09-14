@@ -1,14 +1,6 @@
 # Elmo
 Bot com integração a uma API de IA gratuita.
 
-### Requisitos
-
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
-
-1. [Git](https://git-scm.com/)
-2. [Node.js](https://nodejs.org/)
-3. [Yarn](https://yarnpkg.com/)
-
 ### Passo 1: Instalar Git
 
 Se você ainda não tem o Git instalado, siga o tutorial de instalação oficial para o seu sistema operacional [aqui](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
